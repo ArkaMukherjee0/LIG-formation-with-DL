@@ -3,7 +3,8 @@ Optimizing Laser-Induced Graphene Formation on Polyimide Surfaces Using Deep Lea
 
 ## Guide
 - `LIG with DL.ppt` gives a brief overview of the problem
-- `pinn.ipynb` contains general information about Physics-Informed Neural Networks.
+- `pinn.ipynb` contains general information about Physics-Informed Neural Networks (PINN).
+- `pinn_steps.ipynb` gives an overview of the steps involved in implementing a PINN.
 - `problem.ipynb` contains the following:
   - an overview of graphene
   - the inaccuracies in COMSOL multiphysics
